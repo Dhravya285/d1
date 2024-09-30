@@ -1,7 +1,9 @@
 int main()
 {
-add()
-sub()
-mul()
-div()
+printf("addng changes");
+add();
+sub();
+mul();
+div();
+return 0;
 }
